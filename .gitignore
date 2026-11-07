@@ -1,0 +1,11 @@
+# segredos
+.env
+# dados do desafio e resultados gerados (não versionar)
+dados/
+saida/
+drive-download-*/
+*.joblib
+# python
+__pycache__/
+*.pyc
+.venv/

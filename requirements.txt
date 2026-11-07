@@ -1,0 +1,12 @@
+pandas
+numpy
+duckdb
+scipy
+scikit-learn
+joblib
+openai
+python-dotenv
+slack_bolt
+python-telegram-bot[job-queue]
+ortools
+lightgbm
